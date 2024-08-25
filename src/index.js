@@ -4,7 +4,12 @@ import './index.css';  // Import the CSS file
 
 function App() {
   return (
-    <div>
+    <div style={{ textAlign: 'center' }}>
+      <img 
+        src="https://avatars.githubusercontent.com/u/98676769?v=4" 
+        alt="My GitHub Avatar"
+        style={{ borderRadius: '50%', width: '150px', height: '150px' }}
+      />
       <h1>Hello World</h1>
     </div>
   );
