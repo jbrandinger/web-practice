@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';  // Updated import
+import './index.css';  // Import the CSS file
 
 function App() {
   return (
     <div>
-      <h1>Hello, World!</h1>
-      <p>How are you doing today?</p>
+      <h1>Hello World</h1>
     </div>
   );
 }
