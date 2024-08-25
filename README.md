@@ -1,6 +1,5 @@
 # A fun React App for practice
 
-Clone and follow along if you want :)
 
 ## Installation
 
