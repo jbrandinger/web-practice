@@ -11,6 +11,7 @@ function App() {
         style={{ borderRadius: '50%', width: '150px', height: '150px' }}
       />
       <h1>Hello World</h1>
+      <p>My name is Joel</p>
     </div>
   );
 }
